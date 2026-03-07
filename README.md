@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Vaggelis 👋
 
-<!--
-**vaggeliss05/vaggeliss05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Machine Learning Engineer | Bridging Software & Business Logic
 
-Here are some ideas to get you started:
+I am a 3rd-year undergraduate student studying **Applied Informatics (Information Systems)** at the [University of Macedonia](https://www.uom.gr/). My academic journey is focused on the intersection of robust software architecture and practical business value. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently transitioning into the world of Data Science and Artificial Intelligence, building a strong mathematical and algorithmic foundation to develop intelligent, scalable systems.
+
+---
+
+### 🚀 Current Focus
+- 🧠 Deepening my knowledge in **Data Science** and **Machine Learning** algorithms.
+- 🐍 Completing the **Harvard CS50P (Python)** to solidify my backend and data-wrangling skills.
+- ⚙️ Exploring Cloud Computing and Operations Research to understand model deployment and optimization.
+
+### 🛠️ Tech Stack & Tools (Building Phase)
+- **Languages:** Python, Java
+- **Core Concepts:** Object-Oriented Programming (OOP), Data Structures, Systems Analysis & UML
+- **Tools:** Git, GitHub, Eclipse, VS Code
+
+---
+
+### 📈 Philosophy
+I believe in **disciplined execution** and **continuous learning**. I am not just learning to code; I am learning to engineer solutions that make a tangible impact. 
+
+> *"Always learning, always building."*
+
+---
+
+### 📫 Let's Connect
+- **LinkedIn:** www.linkedin.com/in/vaggelis-milikos-870033331
+- **Email:** milikosvaggeliss@gmail.com
+
+---
+⭐️ *Building my portfolio one commit at a time.*
