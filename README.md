@@ -28,7 +28,7 @@ I believe in **disciplined execution** and **continuous learning**. I am not jus
 ---
 
 ### 📫 Let's Connect
-- **LinkedIn:** www.linkedin.com/in/vaggelis-milikos-870033331
+- **LinkedIn:** https://www.linkedin.com/in/vaggelis-milikos
 - **Email:** milikosvaggeliss@gmail.com
 
 ---
