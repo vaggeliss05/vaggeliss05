@@ -23,7 +23,7 @@ I am currently transitioning into the world of Data Science and Artificial Intel
 ### 📈 Philosophy
 I believe in **disciplined execution** and **continuous learning**. I am not just learning to code; I am learning to engineer solutions that make a tangible impact. 
 
-> *"Always learning, always building. Learning is a lifetime experience. "*
+> *"Always learning, always building. Treating Software Engineering and AI as a continuous, lifelong pursuit."*
 
 ---
 
